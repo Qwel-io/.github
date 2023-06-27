@@ -1,4 +1,5 @@
-![Qwel Leak Detection and Prevention](./assets/logo-qwel.png)
+![Qwel Leak Detection and Prevention](https://github.com/Qwel-io/.github/assets/676428/2a427166-5000-4293-a2ef-191841c9a398)
+
 
 # [Qwel Leak Detection and Prevention](https://www.qwel.io/)
 
